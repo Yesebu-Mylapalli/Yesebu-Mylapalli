@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a skilled software developer
 - 🌱 I’m currently learning advanced concepts in Java and Python
 - 💞️ I’m looking to collaborate on open-source projects, especially those involving Java and Python
-- 📫 How to reach me Gmail{yesebumylapalli2005@gmail.com)
+- 📫 How to reach me [Gmail](yesebumylapalli2005@gmail.com), [LinkedIn](https://www.linkedin.com/in/mylapalli-yesebu/).
 - 😄 Pronouns: He/Him
 
 
